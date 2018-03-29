@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ирина Рябова](https://up.htmlacademy.ru/javascript/13/user/186230).
-* Наставник: `Неизвестно`.
+* Наставник: `Без наставника`.
 
 ---
 
